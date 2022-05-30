@@ -55,7 +55,7 @@ tma <silent> <m-s-o> <c-\><c-n>:winc p<cr>
 
 " toggle
 nn <silent> <m-1> :set cursorcolumn!<cr>
-nn <silent> <m-2> :25Lexplore<cr>
+nn <silent> <m-2> :15Lexplore<cr>
 nm <silent> <m-3> :set relativenumber! number!<cr>
 tma <silent> <m-3> <c-\><c-n>:set relativenumber! number!<cr>
 
